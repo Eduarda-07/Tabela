@@ -17,6 +17,6 @@ Página com a exposição de uma tabela com marcas diferentes. O intuito desse p
 
 ___
 
-##Autor
+## Autor
 
 - [Eduarda de Jesus]
